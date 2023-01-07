@@ -9,4 +9,5 @@ public class Main {
     public static int kop(int a,int b){
         return a*b;
     }
+
 }
