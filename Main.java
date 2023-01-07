@@ -6,4 +6,7 @@ public class Main {
     public static Integer sum(int a,int b){
         return a+b;
     }
+    public static int kop(int a,int b){
+        return a*b;
+    }
 }
